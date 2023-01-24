@@ -3,7 +3,6 @@ import cv2
 from tabulate import tabulate
 from env import *
 import pandas as pd
-import os
 
 percent_n=[]
 mse_calc=[]

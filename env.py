@@ -1,5 +1,4 @@
-# img=["coin","leaves","leena","train","sky"]
-img=["leena","train","sky"]
+img=["coin","leaves","leena","train","sky"]
 k=2
 
 NOISE_MAGNITUDE = [0.1,0.2,0.3,0.4,0.5,0.8]
